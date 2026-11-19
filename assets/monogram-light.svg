@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 176" role="img" aria-labelledby="title desc">
+<title id="title">MP monogram</title><desc id="desc">An understated graphite and sand-colored geometric monogram for Mehnaaz Parveen.</desc>
+<rect width="176" height="176" rx="8" fill="#F4F0EB"/>
+<path d="M25 24h126M25 152h126" stroke="#D8CCC0" stroke-width="1"/>
+<path d="M25 24v128M151 24v128" stroke="#E0D7CE" stroke-width="1"/>
+<path d="M35 116V58l29 32 29-32v58" fill="none" stroke="#26313B" stroke-width="5.5" stroke-linejoin="miter"/>
+<path d="M108 116V58h16c14 0 21 6 21 17 0 12-7 18-21 18h-16" fill="none" stroke="#26313B" stroke-width="5.5"/>
+<circle cx="135" cy="116" r="4.5" fill="#AC806E"/>
+<text x="35" y="139" font-family="Arial, Helvetica, sans-serif" font-size="8.5" letter-spacing="2.6" fill="#95877C">IDEAS TO IMPACT</text>
+</svg>
